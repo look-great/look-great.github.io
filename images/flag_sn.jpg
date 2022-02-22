@@ -1,0 +1,26 @@
+<!DOCTYPE html><html><head itemscope itemtype="https://schema.org/WebSite">
+    <meta charset="utf-8">
+    <title>Viladomat Esports</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta itemprop="name" content="Viladomat">
+    <meta name="rights" content="Viladomat Esports SAU">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="viladomat.com">
+    <link rel="preconnect" href="https://cdn.viladomat.com">
+    <link rel="preconnect" href="https://api.viladomat.com">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="preload" as="font" href="/assets/fonts/icomoon.ttf?4zi6wf" type="font/ttf" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/assets/fonts/Solomon_Normal_webfont.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/assets/fonts/Solomon_Bold_webfont.woff2" type="font/woff2" crossorigin="anonymous">  
+    <link rel="stylesheet" href="../css/bootstrap.min.css" crossorigin="anonymous">
+    <script type="text/javascript" src="../js/api.js" async defer></script>
+  <style>@font-face{font-family:solomon;src:url(../fonts/Solomon_Normal_webfont.woff2) format("woff2"),url(../fonts/Solomon_Normal_webfont.woff) format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:solomon;src:url(../fonts/Solomon_Bold_webfont.woff2) format("woff2"),url(../fonts/Solomon_Bold_webfont.woff) format("woff");font-weight:700;font-style:normal;font-display:swap}*{font-family:solomon}@-webkit-keyframes color-transition{0%{color:#f80}33%{color:#0063bd}66%{color:#0063bd}to{color:#f80}}@-webkit-keyframes color-transition-black{0%{color:#f80}33%{color:#222}66%{color:#222}to{color:#f80}}</style><link rel="stylesheet" href="../css/styles.215591cb5b694279.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="../css/styles.215591cb5b694279.css"></noscript><style>@font-face{font-family:solomon;src:url(../fonts/Solomon_Normal_webfont.woff2) format("woff2"),url(../fonts/Solomon_Normal_webfont.woff) format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:solomon;src:url(../fonts/Solomon_Bold_webfont.woff2) format("woff2"),url(../fonts/Solomon_Bold_webfont.woff) format("woff");font-weight:700;font-style:normal;font-display:swap}*{font-family:solomon}@-webkit-keyframes color-transition{0%{color:#f80}33%{color:#0063bd}66%{color:#0063bd}to{color:#f80}}@-webkit-keyframes color-transition-black{0%{color:#f80}33%{color:#222}66%{color:#222}to{color:#f80}}</style><link rel="stylesheet" href="../css/main.b67565a2e368d24e.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="../css/main.b67565a2e368d24e.css"></noscript></head>
+  <body> 
+    <app-root></app-root>
+  <script src="../js/runtime.57351ded606f57d1.js" type="module"></script><script src="../js/polyfills.df4260ac8d0d908c.js" type="module"></script><script src="../js/main.bf34256d94add5ef.js" type="module"></script>
+
+</body></html>
